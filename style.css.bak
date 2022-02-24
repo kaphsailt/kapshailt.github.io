@@ -1,0 +1,42 @@
+body#page1{
+    background: #fc0 url(derevo.jpg); 
+
+    margin-right: 30px;
+    margin-left: 15px;
+}
+
+body#page2{
+    background-color:rgb(255, 240, 245);
+    color: black; 
+
+}
+
+body#page3{
+    background-color:rgb(192, 192, 192);
+    margin-right: 30px;
+    margin-left: 30px;
+    font-family: Verdana, sans-serif;
+}
+.column {
+  float: right;
+  width: 50.33%;
+  padding: 5px;
+  display: flex;
+}
+
+
+
+
+.h1_center {
+    text-align: left-side;
+}
+
+
+
+#p_page1 {
+
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin: 15px;
+}

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Name Surname">
+		<meta property="og:image" content="Ссылка на изображение" />
+<link rel="stylesheet" href="style.css">
+
+		
+  <title>derevo2</title>
+  <style type="text/css">
+  
+  BODY {
+   background: #fc0 url(derevo2.png); 
+   }
+   h1 {
+ 
+   font-size: 50px;
+   text-shadow: 1px 1px 1px #000000;
+   text-align: center;
+   }
+   h2 {
+   float: left;
+   width: 50%
+   }
+   img {
+   float: right;
+   width: 40%;
+   }
+  
+
+
+    nav ul {
+	background-color: #6699FF;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+ 
+ 
+  
+}
+nav li {
+	 float: left;
+ 
+}
+nav li a {
+font-size: 25px;
+
+  color: #505050;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline overline;
+ 
+}
+   P {
+   font-size: 30px;
+   padding-bottom: 20px;
+   padding-top: 50px;
+  text-align: left;
+   
+   text-shadow: 1px 1px 2px #000000}
+   </style>
+   </head>
+	<h1 class="h1_center" style="color: #6699FF" >  ABOUT ME</h1>
+	</head>
+	<body id="page2">
+	<body background="derevo2.png">
+       <nav>
+	   <ul>
+		    <li><a href = "index.html"> HOME </a></li>
+            <li><a href = "page2.html"> ABOUT ME </a></li>
+
+            
+			
+			
+        
+            <li><a href = "price.html"
+                   >PRICE</a></li>
+
+        
+            <li><a href = "fourth_page.html"> METHODS& COURSES </a></li>
+
+        </ul>
+	</nav>
+	<div style="display:block;">
+ <p style="color: #6699FF">WORK EXPERIENCE</p>
+	</div>
+	<main>
+	<div class="two-column">
+	<h2 id="p_page1" align="left">
+	<p2 style="color: #505050">•	2019.01-2019.07- English Tutor (EnglishDom, Ukraine)
+Duties: Teaching online through the platform of the organization. Working with students with different English level from elementary to intermediate. Creation specialized courses for student’s groups according to their goals of studying.
+•	2019. 08.- 2020.04 – English tutor ( StreamLine, Belarus)
+Duties: Teaching teenagers at the age of 12-16 of English (B1-C1), required both: personal lessons and group lessons
+•	2020.05-2020.12- English tutor (Skyeng)
+Duties: Teaching online through the platform of the organization. Creating plans for lessons and individual courses for students. Working with students of different ages and English level.
+
+•	2021.01-2022.01 – English Tutor (Preply)
+Duties: Teaching online through the platform of the organization. Creating plans for lessons and individual courses for students. Working with students of different ages and English level.</p2>
+</div>
+<div>
+<div>
+		<img class="students" src="students.jpg" alt="students2" style="vertical-align:top"/>
+		</div>
+		</div> 
+		</main>
+		
+	
+		
+		
+</body>
+</html>
